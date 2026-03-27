@@ -38,4 +38,4 @@ Aplikasi ini menggunakan beberapa CDN eksternal terbuka (`Client-Side`) agar ber
 * [**jsPDF**](https://github.com/parallax/jsPDF) - Pengurus kompilasi array urutan gambar yang di-_generate_ menjadi file PDF murni berskala milimeter.
 
 ---
-> **Catatan**: Karena skrip ini menggunakan sistem Javascript `FileReader`, harap pastikan Anda mengakses file HTML ini pada *Local server (Live Server/Browser langsung)*. Apabila menemui batasan CORS, pastikan *browser* Anda sedang tidak menghidupkan ekstensi anti-tracker pengetat (Ext ketat biasanya membredel pergerakan Canvas rendering).
+
